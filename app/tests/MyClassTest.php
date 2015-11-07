@@ -10,7 +10,7 @@ namespace MyClassTest;
 use MyClass\MyClass;
 
 
-class MyClassTest1 extends \PHPUnit_Framework_TestCase
+class MyClassTest extends \PHPUnit_Framework_TestCase
 {
     /**
      * @dataProvider providerPower
