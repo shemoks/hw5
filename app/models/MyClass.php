@@ -51,15 +51,6 @@ class MyClass
         return $x / $y;
     }
 
-    public function valueGreaterThan($x, $y)
-    {
-        if ($x<$y && $x<100) {
-            return $x;
-        } else {
-            return 0;
-        }
-    }
-
     public function Count($x, $y)
     {
         $arr = $this->simple($x, $y);
