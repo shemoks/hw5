@@ -10,10 +10,7 @@
     backupGlobals="false"
     syntaxCheck="true"
 >
-    <testsuite>
-        <testsuite name="main">
-            <directory>app/tests
-            </directory>
-        </testsuite>
+    <testsuite name="main">
+        <directory>app/tests</directory>
     </testsuite>
 </phpunit>
