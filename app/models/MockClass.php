@@ -13,9 +13,7 @@ class MockClass
 
     public function getNumber()
     {
-        /*виводить значення числа*/
-        $number = 12;
-        return $number;
+
     }
     public function getWord()
     {

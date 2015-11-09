@@ -28,5 +28,4 @@ class MockClassTest extends \PHPUnit_Framework_TestCase
         $this->assertEquals('exceeds', $stub->getWord());
 
     }
-
 }
