@@ -10,7 +10,8 @@
     ],
     "autoload": {
         "psr-4": {
-            "MyClass\\": "app/models/"
+            "MyClass\\": "app/models/",
+            "MockClass\\":["app/models/", "app/tests/"]
         }
     },
     "minimum-stability": "stable",
